@@ -1,0 +1,5 @@
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-text-splitters
+python-dotenv
