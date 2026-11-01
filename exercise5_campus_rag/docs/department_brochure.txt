@@ -1,0 +1,19 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING - BROCHURE
+
+About the department
+The Department of Computer Science and Engineering was started in 2004 and has an intake of 180 students in the B.Tech programme. It also offers an M.Tech in Artificial Intelligence and a Ph.D. programme. The department has 28 faculty members, of which 15 hold a doctorate.
+
+Labs and facilities
+The department has seven laboratories: Programming Lab, Data Structures Lab, Database Lab, Networks Lab, Artificial Intelligence and Machine Learning Lab, Cyber Security Lab and an IoT Lab. The AI and ML Lab has 40 GPU workstations that students can use after class hours with permission from the lab incharge. The department library has over 3500 titles and the labs are open till 6:30 PM.
+
+Placements
+More than 90% of eligible students were placed in the last academic year. The highest package was 24 LPA and the average package was 6.2 LPA. Companies like TCS, Infosys, Wipro, Cognizant, Amazon and Zoho visit the campus every year. The training and placement cell conducts aptitude and coding training from the third semester onwards.
+
+Student clubs and activities
+Students can join the Coding Club, the Robotics Club, the Google Developer Student Club or the Cyber Security Club. The department conducts a national level technical symposium called TechFest every February and a 24 hour hackathon in September. Students who publish a paper in a reputed conference get a research grant of up to Rs. 10000.
+
+Electives and certifications
+In the sixth and seventh semesters students can choose electives such as Deep Learning, Cloud Computing, Natural Language Processing, Blockchain and Ethical Hacking. The department supports industry certifications from NPTEL, AWS and Microsoft, and the fee for NPTEL exams is reimbursed for students who score a pass.
+
+Contact
+Head of the Department: cse.hod@college.edu. Office: Block B, second floor, open from 9:00 AM to 4:30 PM on working days.
